@@ -1,6 +1,6 @@
 {
-  "_from": "ngx-leaflet-fa-markers@1.0.0",
-  "_id": "ngx-leaflet-fa-markers@1.0.0",
+  "_from": "ngx-leaflet-fa-markers@1.0.1",
+  "_id": "ngx-leaflet-fa-markers@1.0.1",
   "_inBundle": false,
   "_integrity": "sha1-XvfJdJYhcWQKglHitEm5avi+2Y4=",
   "_location": "/ngx-leaflet-fa-markers",
@@ -8,7 +8,7 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "ngx-leaflet-fa-markers@1.0.0",
+    "raw": "ngx-leaflet-fa-markers@1.0.1",
     "name": "ngx-leaflet-fa-markers",
     "escapedName": "leaflet-fa-markers",
     "rawSpec": "0.0.0",
@@ -18,9 +18,9 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/ngx-leaflet-fa-markers/-/ngx-leaflet-fa-markers-1.0.0.tgz",
+  "_resolved": "https://registry.npmjs.org/ngx-leaflet-fa-markers/-/ngx-leaflet-fa-markers-1.0.1.tgz",
   "_shasum": "5ef7c974962171640a8251e2b449b96af8bed98e",
-  "_spec": "ngx-leaflet-fa-markers@1.0.0",
+  "_spec": "ngx-leaflet-fa-markers@1.0.1",
   "_where": "F:\\cygwin64\\home\\alex\\mantrailling",
   "author": {
     "name": "alexandre@melard.fr"
@@ -47,5 +47,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }

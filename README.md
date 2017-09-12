@@ -1,4 +1,4 @@
-# leaflet-fa-markers [![NPM version][npm-image]][npm-url]
+# leaflet-fa-markers [npm-url]
 
 Very simple markers with FontAwesome icons, compatible with Leaflet v1.
 
