@@ -27,7 +27,10 @@ export class FontAwesomeIcon extends Icon {
     return div;
   }
 
-  _createIcon() {
+  _createIcon(option: any) {
+    if (option === 'shadow') {
+      return;
+    }
 
     const options = this.options;
 
