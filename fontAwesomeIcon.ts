@@ -21,7 +21,7 @@ export class FontAwesomeIcon extends Icon {
     const options = this.options;
 
     if (options.iconClasses) {
-      div.appendChild(this._createIcon());
+      div.appendChild(this._createIcon(''));
     }
 
     return div;
