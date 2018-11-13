@@ -16,7 +16,6 @@ export class FontAwesomeIcon extends Icon {
   }
 
   createIcon() {
-
     const div = document.createElement('div');
     const options = this.options;
 
@@ -43,11 +42,11 @@ export class FontAwesomeIcon extends Icon {
     iconSpan.style.textAlign = 'center';
 
     // XY position adjustments
-    if(options.iconYOffset && options.iconYOffset !== 0) {
+    if (options.iconYOffset && options.iconYOffset !== 0) {
       iconSpan.style.marginTop = options.iconYOffset + 'px';
     }
 
-    if(options.iconXOffset && options.iconXOffset !== 0) {
+    if (options.iconXOffset && options.iconXOffset !== 0) {
       iconSpan.style.marginLeft = options.iconXOffset + 'px';
     }
 
